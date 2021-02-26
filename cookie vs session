@@ -1,0 +1,2 @@
+cookies are user information stored on client side, they are independent and have a small size of 4kb and below.
+while sessions are user information stored on server side, usually dependent on cookies.
